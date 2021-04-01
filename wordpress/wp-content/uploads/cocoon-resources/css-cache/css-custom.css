@@ -35,7 +35,10 @@
 }
 .toc-checkbox:checked + .toc-title::after{
   content: '[閉じる]';
-}#respond {
+}.eye-catch-wrap{
+  justify-content: center;
+}
+#respond {
   display: none;
 }
 .entry-content > *,
